@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Morse_decoder-blueviolet)
+![](https://img.shields.io/badge/Ruby_Enumerable-blueviolet)
 
 # Ruby Enumerable
 
