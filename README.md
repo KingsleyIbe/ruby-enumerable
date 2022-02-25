@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Morse_decoder-blueviolet)
 
-# My_Ruby_Enumerable
+# Ruby Enumerable
 
 > In this project we learned how to use a module inside a class. For this we created a class MyList and a module MyEnumerable. Our module MyEnumerable implemented a subset of the functionality of Ruby's in-built Enumerable.
 
