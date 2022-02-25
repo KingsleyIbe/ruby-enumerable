@@ -45,7 +45,7 @@ run ruby my_list.rb
 
 ## Authors
 
-👤 **ATİLLA TAHA KÖRDÜĞÜM**
+## 👤ATİLLA TAHA KÖRDÜĞÜM
 
 - GitHub: [@AtillaTahak](https://github.com/AtillaTahak)
 - Twitter: [@AtillaTahaa](https://twitter.com/AtillaTahaa)
