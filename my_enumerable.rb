@@ -13,7 +13,7 @@ module MyEnumerable
 
   def filter(&block)
     result = []
-    each { |element| result << item if block.call(element) }
+    each { |element| result << element if block.call(element) }
     result
   end
 end
